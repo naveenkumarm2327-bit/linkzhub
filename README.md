@@ -23,8 +23,6 @@ HTML5
 
 CSS3
 
-JavaScript
-
 📂 Project Structure
 LinkZ-Hub
 │
@@ -50,6 +48,6 @@ A simple frontend practice project
 
 Naveen Kumar
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/naveenkumarm2327-bit
 
 LinkedIn: https://www.linkedin.com/in/naveen-kumar-m-a9b096263
